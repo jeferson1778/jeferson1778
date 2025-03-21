@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Sou Jeferson e estou começando na programação
 
 <!--
 **jeferson1778/jeferson1778** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
